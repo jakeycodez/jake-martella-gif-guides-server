@@ -1,0 +1,22 @@
+[
+    {
+        "categoryID": "100",
+        "name": "Cooking",
+        "poster": "https://media.giphy.com/media/N23cG6apipMmQ/giphy.gif"
+    },
+    {
+        "categoryID": "200",
+        "name": "Fitness",
+        "poster": "https://media.giphy.com/media/12TOAdbCuQe2wE/giphy.gif"
+    },
+    {
+        "categoryID": "300",
+        "name": "Arts & Crafts",
+        "poster": "https://media.giphy.com/media/ekFkvetUOW1ThEBfE6/giphy.gif"
+    },
+    {
+        "categoryID": "400",
+        "name": "Life-Hacks",
+        "poster": "https://media.giphy.com/media/71zOwrHdfEgik/giphy.gif"
+    }
+]

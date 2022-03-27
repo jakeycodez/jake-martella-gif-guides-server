@@ -1,0 +1,213 @@
+[
+    {
+        "id": "1",
+        "name": "How to make paper cranes",
+        "author": "anonymous",
+        "categoryID": "100",
+        "categoryName": "Arts & Crafts", 
+        "steps": [
+            {
+                "step1": "",
+                "gif": "src/guides/arts-and-crafts/how-make-a-paper-crane.step1-get-square-paper.gif"
+            },
+            {
+                "step2": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step2-fold-into-triangle.gif"
+            },
+            {
+                "step3": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step3-fold-inward.gif"
+            },
+            {
+                "step4": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step4-repeat-on-opposite-side.gif"
+            },
+            {
+                "ste5": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step5-fold-edge.gif"
+            },
+            {
+                "step6": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step6-repeat-and-flip.gif"
+            },
+            {
+                "step7": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step7-fold-edge-again.gif"
+            },
+            {
+                "step8": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step8-fold-other-side.gif"
+            },
+            {
+                "step9": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step9-folder-should-look-like-this.gif"
+            },
+            {
+                "step10": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step10-open.gif"
+            },
+            {
+                "step11": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step11-fold-inward.gif"
+            },
+            {
+                "step12": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step12-press-folds.gif"
+            },
+            {
+                "step13": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step13-unfold.gif"
+            },
+            {
+                "step14": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step14-repeat.gif"
+            },
+            {
+                "step15": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step15-fold-head.gif"
+            },
+            {
+                "step16": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step16-fold-tail.gif"
+            },
+            {
+                "step17": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step17-fold-beak.gif"
+            },
+            {
+                "step18": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step18-shape-wings.gif"
+            },
+            {
+                "step19": "",
+                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "How to make a paper gun",
+        "author": "anonymous",
+        "categoryID": "100",
+        "categoryName": "Arts & Crafts", 
+        "steps": [
+            {
+                "step1": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step1-fold-in-half.gif"
+            },
+            {
+                "step2": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step2-fold-again.gif"
+            },
+            {
+                "step3": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step3-fold-upper-half.gif"
+            },
+            {
+                "step4": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step5": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step5-make-another-and-fold-in-half.gif"
+            },
+            {
+                "step6": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step6-fold-outward.gif"
+            },
+            {
+                "step7": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step8": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step9": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step10": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step11": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step12": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step13": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step14": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step15": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step16": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step17": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step18": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step19": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step20": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step21": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step22": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step23": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step24": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step25": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step26": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step27": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step28": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+            },
+            {
+                "step29": "",
+                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step29-done.gif"
+            }
+            
+        ]
+    }
+]
