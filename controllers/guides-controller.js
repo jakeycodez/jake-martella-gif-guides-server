@@ -1,4 +1,4 @@
-const { v4: uuidv4 } = require('uuid');
+// const { v4: uuidv4 } = require('uuid');
 const guidesModels = require('../models/guides-models');
 // const categoryModel = require('../models/category-models');
 
@@ -16,12 +16,13 @@ exports.getAllGuides = (_req, res) => {
             }
         })
         res.status(200).json(guidesArr);
+        console.log('Successfully called all guides')
 }
 
 exports.getAllGuidesOfCat = (req, res) => {
-
     const guidesCatCall = guidesModels.getAllGuides()
     .filter((guide) => guide.categoryID === req.params.id);
 
     res.status(200).json(guidesCatCall);
+    console.log('Successfully called guides of one category')
 }

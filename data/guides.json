@@ -3,7 +3,7 @@
         "id": "1",
         "name": "How to make paper cranes",
         "author": "anonymous",
-        "categoryID": "100",
+        "categoryID": "300",
         "categoryName": "Arts & Crafts", 
         "steps": [
             {
@@ -88,7 +88,7 @@
         "id": "2",
         "name": "How to make a paper gun",
         "author": "anonymous",
-        "categoryID": "100",
+        "categoryID": "300",
         "categoryName": "Arts & Crafts", 
         "steps": [
             {

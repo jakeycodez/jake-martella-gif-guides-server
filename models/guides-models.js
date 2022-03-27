@@ -10,5 +10,9 @@ exports.getAllGuides = () => {
     return JSON.parse(guidesArr);
   }
 
+  exports.getAllGuidesByID = () => {
+    const guidesCatCall = fs.readFileSync(filePath);
+    return JSON.parse(guidesCatCall)
+  }
 
   

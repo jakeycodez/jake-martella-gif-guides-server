@@ -4,8 +4,8 @@ const guidesController = require('../controllers/guides-controller');
 
 
   // GET req for "/:id" routes of specified category for guides
-router.route('/:id')
-.get(guidesController.getAllGuides)
+router.route('/categories/:id')
+.get(guidesController.getAllGuidesOfCat)
 
 
 module.exports = router;
