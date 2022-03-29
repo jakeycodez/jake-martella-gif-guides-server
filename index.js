@@ -3,10 +3,10 @@ const app = express();
 const cors = require('cors');
 const PORT = process.env.PORT || 8080;
 
-// To access request.body in POST requests
-app.use(express.json());
 
-// Enable cors
+// Middleware
+app.use(express.static('public'))
+app.use(express.json());
 app.use(cors());
 
 // Routes

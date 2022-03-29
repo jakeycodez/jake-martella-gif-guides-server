@@ -1,211 +1,822 @@
 [
     {
         "id": "1",
-        "name": "How to make paper cranes",
-        "author": "anonymous",
+        "name": "How to make a paper crane",
+        "author": "PPO",
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif",
         "steps": [
             {
-                "step1": "",
-                "gif": "src/guides/arts-and-crafts/how-make-a-paper-crane.step1-get-square-paper.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step1-get-square-paper.gif"
             },
             {
-                "step2": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step2-fold-into-triangle.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step2-fold-into-triangle.gif"
             },
             {
-                "step3": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step3-fold-inward.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step3-fold-inward.gif"
             },
             {
-                "step4": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step4-repeat-on-opposite-side.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step4-repeat-on-opposite-side.gif"
             },
             {
-                "ste5": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step5-fold-edge.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step5-fold-edge.gif"
             },
             {
-                "step6": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step6-repeat-and-flip.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step6-repeat-and-flip.gif"
             },
             {
-                "step7": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step7-fold-edge-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step7-fold-edge-again.gif"
             },
             {
-                "step8": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step8-fold-other-side.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step8-fold-other-side.gif"
             },
             {
-                "step9": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step9-folder-should-look-like-this.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step9-folder-should-look-like-this.gif"
             },
             {
-                "step10": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step10-open.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step10-open.gif"
             },
             {
-                "step11": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step11-fold-inward.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step11-fold-inward.gif"
             },
             {
-                "step12": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step12-press-folds.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step12-press-folds.gif"
             },
             {
-                "step13": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step13-unfold.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step13-unfold.gif"
             },
             {
-                "step14": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step14-repeat.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step14-repeat.gif"
             },
             {
-                "step15": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step15-fold-head.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step15-fold-head.gif"
             },
             {
-                "step16": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step16-fold-tail.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step16-fold-tail.gif"
             },
             {
-                "step17": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step17-fold-beak.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step17-fold-beak.gif"
             },
             {
-                "step18": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step18-shape-wings.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step18-shape-wings.gif"
             },
             {
-                "step19": "",
-                "gif": "src/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif"
             }
         ]
     },
     {
         "id": "2",
-        "name": "How to make a paper gun",
-        "author": "anonymous",
+        "name": "How to make a paper pencil holder",
+        "author": "PPO",
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step23-use-pencil-holder.gif",
+        "steps":[
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step1-fold.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step2-cut.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step3-fold-square.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step4-fold-edge.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step5-fold-top-edge.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step6-rotate-and-repeat-folds.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step7-fold-up.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step8-fold-top-edge.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step9-notice-squares.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step10-fold-four-corners.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step11-fold-top-and-bottom.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step12-fold.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step13-get-paper-trace-square.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step14-cut-paper.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step15-slide-paper-and-connect.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step16-repeat-make-six.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step17-glue.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step18-connect-and-repeat.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step19-complete-all-six.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step20-glue-bottom.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step21-stick-on-paper-let-dry.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step22-cut-edges.gif"  
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step23-use-pencil-holder.gif"  
+            }
+
+        ]
+    },
+    {
+        "id": "3",
+        "name": "How to make a paper frog",
+        "author": "PPO",
+        "categoryID": "300",
+        "categoryName": "Arts & Crafts", 
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step19-tap-butt-to-launch.gif",
+        "steps":[
+            {
+               "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step1-get-paper.gif"  
+            },
+            {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step2-fold.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step3-fold-top-corner.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step4-fold-other-corner.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step5-repeat-on-bottom-corners.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step6-repeat-corners.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step7-special-fold.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step8-press-hard.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step9-repeat-fold.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step10-fold.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step11-fold-other-side.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step12-fold-edges.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step13-repeat-all-sides.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step14-flip-over-fold-bottom.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step15-fold-sides.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step16-fold-other-side.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step17-fold.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step18-fold-butt.gif"  
+             },
+             {
+                "step": "",
+                 "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step19-tap-butt-to-launch.gif"  
+             }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "How to make a paper gun",
+        "author": "PPO",
+        "categoryID": "300",
+        "categoryName": "Arts & Crafts", 
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step29-done.gif",
         "steps": [
             {
-                "step1": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step1-fold-in-half.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step1-fold-in-half.gif"
             },
             {
-                "step2": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step2-fold-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step2-fold-again.gif"
             },
             {
-                "step3": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step3-fold-upper-half.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step3-fold-upper-half.gif"
             },
             {
-                "step4": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
             },
             {
-                "step5": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step5-make-another-and-fold-in-half.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step5-make-another-and-fold-in-half.gif"
             },
             {
-                "step6": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step6-fold-outward.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step6-fold-outward.gif"
             },
             {
-                "step7": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step7-fold-both-sides.gif"
             },
             {
-                "step8": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step8-fold-other-piece-around-barrel.gif"
             },
             {
-                "step9": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step9-cut.gif"
             },
             {
-                "step10": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step10-position.gif"
             },
             {
-                "step11": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step11-fold-up.gif"
             },
             {
-                "step12": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step12-fold-inside.gif"
             },
             {
-                "step13": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step13-repeat-other-side.gif"
             },
             {
-                "step14": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step14-secure-inserts.gif"
             },
             {
-                "step15": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step15-roll-another-paper-use-skewer.gif"
             },
             {
-                "step16": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step16-glue-edge"
             },
             {
-                "step17": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step17-remove-skewer-let-dry-cut.gif"
             },
             {
-                "step18": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step18-flatten-end-insert.gif"
             },
             {
-                "step19": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step19-insert-second-tube.gif"
             },
             {
-                "step20": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step20-fold-like-such.gif"
             },
             {
-                "step21": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step21-fold-like-so.gif"
             },
             {
-                "step22": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step22-cut-in-half.gif"
             },
             {
-                "step23": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step23-cut-piece-off.gif"
             },
             {
-                "step24": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step24-fold-inward.gif"
             },
             {
-                "step25": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step25-fold-small.gif"
             },
             {
-                "step26": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step26-insert.gif"
             },
             {
-                "step27": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step27-insert-next-piece.gif"
             },
             {
-                "step28": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step4-fold-in-half-again.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step28-fold-inside.gif"
             },
             {
-                "step29": "",
-                "gif": "server/src/guides/arts-and-crafts/how-to-make-a-paper-gun/step29-done.gif"
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step29-done.gif"
+            }
+            
+        ]
+    },
+    {
+        "id": "5",
+        "name": "How to make paper sunglasses",
+        "author": "PPO",
+        "likes": 19,
+        "categoryID": "300",
+        "categoryName": "Arts & Crafts", 
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step13-fold-other-arm-and-wear.gif",
+        "steps":[
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step1-get-paper.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step2-fold.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step3-shift.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step4-fold.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step5-unfold.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step6-fold.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step7-fold-up.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step8-fold-again.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step9-fold-again.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step10-make-sure-folds-are-tight.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step11-fold-edges.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step12-fold-in-arms.gif"
+            },
+            {
+                "step": "",
+                "gif": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step13-fold-other-arm-and-wear.gif"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "How to make homemade bread",
+        "author": "NovaEraOfficial",
+        "likes": 87,
+        "categoryID": "100",
+        "categoryName": "Cooking", 
+        "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step14-cut-enjoy.gif",
+        "steps":[
+            {
+                "step": "Get 800g of all-purpose flour in a bowl.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step1-get-flour.gif"
+            },
+            {
+                "step": "Add salt.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step2-add-salt.gif"
+            },
+            {
+                "step": "Add dry yeast and mix with a spoon.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step3-add-dry-yeast-and-mix.gif"
+            },
+            {
+                "step": "Add water and mix with hand until sticky.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step4-add-water-and-mix-by-hand.gif"
+            },
+            {
+                "step": "Knead dough and cover with plastic wrap. Let rest 30 mins on the counter.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step5-knead-then-let-rest.gif"
+            },
+            {
+                "step": "The dough will rise while in the bowl. That's good. Uncover bowl, flour surface and knead some more.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step6-uncover-knead-more.gif"
+            },
+            {
+                "step": "Once it's not sticky, cut dough into two pieces and conitnue to knead.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step7-cut-dough-in-two-knead.gif"
+            },
+            {
+                "step": "Use the fold technique to prepare the bun shape.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step8-knead-and-fold.gif"
+            },
+            {
+                "step": "Preheat oven with a crock pot inside.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step9-preheat-oven-with-crock-pot-inside.gif"
+            },
+            {
+                "step": "After 30 mins, carefully place the dough in the crockpot and begin the baking process. Sprinkle some flour on top, and slice the top of the buns to help rise.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step10-place-both-dough-in-pot-flour-cut.gif"
+            },
+            {
+                "step": "Bake for 30 minutes with the lid on.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step11-bake-30-mins-lid-on.gif"
+            },
+            {
+                "step": "Take lid off pot and bake another 20 minutes.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step12-take-lid-off-bake-another-20-min.gif"
+            },
+            {
+                "step": "Take pot out of oven and let rest 5-10 minutes.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step13-take-out-let-rest.gif"
+            },
+            {
+                "step": "Once cooled, separate bread and enjoy!",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step14-cut-enjoy.gif"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "How to make banana cake",
+        "author": "Cookist",
+        "likes": 43,
+        "categoryID": "100",
+        "categoryName": "Cooking", 
+        "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step20-enjoy.gif",
+        "steps":[
+            {
+                "step": "Peel 3 ripe bananas.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step1-peel-three-bananas.gif" 
+            },
+            {
+                "step": "Cut the bananas and add to a food processor.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step2-cut-then-food-processor.gif" 
+            },
+            {
+                "step": "Add 150g of sugar (about 2/3 of a cup).",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step3-add-150g-sugar.gif" 
+            },
+            {
+                "step": "Add lemon zest of one lemon",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step4-add-lemon-zest.gif" 
+            },
+            {
+                "step": "Add lemon juice.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step5-add-lemon-juice.gif" 
+            },
+            {
+                "step": "Blend.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step6-blend.gif" 
+            },
+            {
+                "step": "Add 100g of seed oil.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step7-add-100g-seed-oil.gif" 
+            },
+            {
+                "step": "Add 2 eggs.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step8-add-two-eggs.gif" 
+            },
+            {
+                "step": "Mix again.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step9-mix-again.gif" 
+            },
+            {
+                "step": "Pour mixture into a bowl evenly.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step10-pour-mixture-in-bowl.gif" 
+            },
+            {
+                "step": "Add 250g all-purpose flour through a sifter.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step11-add-250g-flour.gif" 
+            },
+            {
+                "step": "Add one pack of baking powder (about a tablespoon).",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step12-add-one-pack-baking-powder.gif" 
+            },
+            {
+                "step": "Sift.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step13-sift.gif" 
+            },
+            {
+                "step": "Blend.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step14-blend.gif" 
+            },
+            {
+                "step": "Melt butter and coat inside of baking pan. This will help ensure the cake doesn't stick to the pan.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step15-butter-pan.gif" 
+            },
+            {
+                "step": "Pour mixture into pan evenly.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step16-pour-mixture.gif" 
+            },
+            {
+                "step": "Shake the pan to help distribute batter evenly. This also helps pop bubbles inside the batter.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step17-shake-bubbles.gif" 
+            },
+            {
+                "step": "Bake for 40 minutes at 350 degrees.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step18-bake.gif" 
+            },
+            {
+                "step": "Add icing sugar.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step19-add-icing-sugar.gif" 
+            },
+            {
+                "step": "Cut, serve and enjoy!",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step20-enjoy.gif" 
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "name": "How to make fried chicken",
+        "author": "Tiffin Box",
+        "likes": 129,
+        "categoryID": "100",
+        "categoryName": "Cooking", 
+        "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step25-enjoy.gif",
+        "steps":[
+            {
+                "step": "Add a half-table spoon of soya sauce to a bowl.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step1-soya-sauce.gif" 
+            },
+            {
+                "step": "Add 1 tablespoon of ketchup.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step2-add-ketchup.gif" 
+            },
+            {
+                "step": "Add 1 teaspoon of ginger paste, or a teaspoon of fresh ginger.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step3-add-ginger-paste.gif" 
+            },
+            {
+                "step": "Add 1 teaspoon of garlic paste (garlic aoili also works as a substitute).",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step4-add-garlic-paste.gif" 
+            },
+            {
+                "step": "Add 1 teaspoon of black pepper.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step5-add-black-pepper.gif" 
+            },
+            {
+                "step": "Add a 1/4 teaspoon of salt.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step6-add-salt.gif" 
+            },
+            {
+                "step": "Add a packet of ramen seasoning (optional). ",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step7-add-special-seasoning.gif" 
+            },
+            {
+                "step": "Mix together to form sauce/marinade.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step8-mix-into-sauce.gif" 
+            },
+            {
+                "step": "Add your chicken, skin on, to the bowl.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step9-add-chicken-to-bowl.gif" 
+            },
+            {
+                "step": "Mix chicken until coated well. Cover and let marinade at least two hours in the fridge.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step10-marinade-chicken-two-hours.gif" 
+            },
+            {
+                "step": "Add 1.5 cups of all-purpose flour to an empty bowl or tray.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step11-add-flour.gif" 
+            },
+            {
+                "step": "Add a 1/4 cup of corn flour.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step12-add-corn-flour.gif" 
+            },
+            {
+                "step": "Add 1/2 teaspoon of salt.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step13-add-salt.gif" 
+            },
+            {
+                "step": "Add 1/2 teaspoon of garlic powder.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step14-add-garlic-powder.gif" 
+            },
+            {
+                "step": "Add 1/2 tablespoon of chili powder.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step15-add-chili-powder.gif" 
+            },
+            {
+                "step": "Add a 1/4 teaspoon of turmeric powder.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step16-add-turmeric.gif" 
+            },
+            {
+                "step": "Mix.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step17-mix.gif" 
+            },
+            {
+                "step": "Add chicken to dry mixture and coat thoroughly.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step18-add-chicken-to-mixture.gif" 
+            },
+            {
+                "step": "Once coated, dip chicken into cold water for a few seconds.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step19-add-chicken-to-cold-water.gif" 
+            },
+            {
+                "step": "Take chicken from cold water and add to dry mixture again and coat thoroughly for a second time.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step20-repeat-coating.gif" 
+            },
+            {
+                "step": "Heat oil on high. Make sure chicken is coated well and not wet. Putting water on hot oil can cause a fire. Cook with caution.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step21-deep-fry.gif" 
+            },
+            {
+                "step": "Don't overcrowd the pot. Cook only a few pieces at at time.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step22-be-sure-not-to-crowd-pot.gif" 
+            },
+            {
+                "step": "Cook until golden brown and crispy.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step23-cook-until-golden-brown.gif" 
+            },
+            {
+                "step": "Remove chicken from oil and let cool.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step24-remove-from-oil-to-cool.gif" 
+            },
+            {
+                "step": "Enjoy!",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step25-enjoy.gif" 
+            }
+            
+        ]
+    },
+    {
+        "id": "9",
+        "name": "How to make pizza rolls",
+        "author": "Pizza Time",
+        "likes": 78,
+        "categoryID": "100",
+        "categoryName": "Cooking", 
+        "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step14-enjoy.gif",
+        "steps":[
+            {
+                "step": "Get 6 pieces of sliced white bread.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step1-get-bread.gif"  
+            },
+            {
+                "step": "Add tomato sauce or pizza sauce to bread. You will need about a tablsespoon per slice of bread.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step2-add-tomato-sauce.gif"  
+            },
+            {
+                "step": "Add basil.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step3-add-basil.gif"  
+            },
+            {
+                "step": "Add cheese. Low moisture mozzerella is preferred for a stringy goey effect.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step4-add-cheese.gif"  
+            },
+            {
+                "step": "Roll and wrap tightly in cling-wrap.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step5-wrap-in-cling-wrap.gif"  
+            },
+            {
+                "step": "Put rolls in fridge for 30 minutes.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step6-put-in-fridge.gif"  
+            },
+            {
+                "step": "Add 150ml of milk to a bowl (A little over a half-cup).",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step7-add-milk.gif"  
+            },
+            {
+                "step": "Add 1 egg.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step8-add-egg.gif"  
+            },
+            {
+                "step": "Add salt and pepper to mixture.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step9-add-salt-pepper-mix.gif"  
+            },
+            {
+                "step": "Unwrap rolls and dunk into wet mixture.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step10-unwrap-rolls-dunk-in-mixture.gif"  
+            },
+            {
+                "step": "Heat oil on medium-high. Fry rolls.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step11-fry-in-oil.gif"  
+            },
+            {
+                "step": "Flip and cook all sides until golden brown..",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step12-flip-until-golden-brown.gif"  
+            },
+            {
+                "step": "Take rolls of heat and let cool for a couple minutes.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step13-take-off-heat-let-rest.gif"  
+            },
+            {
+                "step": "Enjoy!",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step14-enjoy.gif"  
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "name": "How to make shrimp dumplings",
+        "author": "Cooking With Eric",
+        "likes": 59,
+        "categoryID": "100",
+        "categoryName": "Cooking", 
+        "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step21-enjoy.gif",
+        "steps":[
+            {
+                "step": "Get flour.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step1-get-flour.gif"   
+            },
+            {
+                "step": "Enjoy!",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step21-enjoy.gif"   
             }
             
         ]

@@ -7,5 +7,8 @@ const guidesController = require('../controllers/guides-controller');
 router.route('/categories/:id')
 .get(guidesController.getAllGuidesOfCat)
 
+router.route('/guide/:id')
+.get(guidesController.getGuideById)
+
 
 module.exports = router;

@@ -10,9 +10,16 @@ exports.getAllGuides = () => {
     return JSON.parse(guidesArr);
   }
 
-  exports.getAllGuidesByID = () => {
+  // function to get guides of one specific category from JSON file
+  exports.getAllGuidesOfCat = () => {
     const guidesCatCall = fs.readFileSync(filePath);
     return JSON.parse(guidesCatCall)
+  }
+
+  // function to get one specific guide from JSON file
+  exports.getGuideById = () => {
+    const findGuide = fs.readFileSync(filePath);
+    return JSON.parse(findGuide)
   }
 
   
