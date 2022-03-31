@@ -14,7 +14,7 @@ exports.getAllGuides = (_req, res) => {
                 "author": guides.author, 
                 "categoryID": guides.categoryID, 
                 "categoryName": guides.categoryName, 
-                "steps": guides.steps
+                // "steps": guides.steps
             }
         })
         res.status(200).json(guidesArr);

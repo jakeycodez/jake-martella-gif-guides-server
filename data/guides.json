@@ -5,7 +5,7 @@
         "author": "PPO",
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
-        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif",
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif",    
         "steps": [
             {
                 "step": "",
@@ -632,7 +632,7 @@
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step25-enjoy.gif",
         "steps":[
             {
-                "step": "Add a half-table spoon of soya sauce to a bowl.",
+                "step": "Add a half-table spoon of soy sauce to a bowl.",
                 "gif": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step1-soya-sauce.gif" 
             },
             {
@@ -813,6 +813,90 @@
             {
                 "step": "Get flour.",
                 "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step1-get-flour.gif"   
+            },
+            {
+                "step": "Add salt.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step2-add-salt.gif"   
+            },
+            {
+                "step": "Add water and mix until sticky blob.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step3-add-water-mix-until-sticky.gif"   
+            },
+            {
+                "step": "Sprinkle flour and knead into smooth dough.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step4-knead.gif"   
+            },
+            {
+                "step": "Roll and cut into thumb pieces.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step5-roll-and-cut.gif"   
+            },
+            {
+                "step": "Flour and flatten nuggets into flat circles.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step6-flatten-nug-into-wrap.gif"   
+            },
+            {
+                "step": "Roll into flat sheets.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/,step7-roll-out.gif"   
+            },
+            {
+                "step": "Add 2 cups purple cabbage.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step8-add-two-cups-caggabe.gif"   
+            },
+            {
+                "step": "Add 2 cups chopped green onion.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step9-add-green-onion.gif"   
+            },
+            {
+                "step": "Add 6 cloves garlic.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step10-add-garlic.gif"   
+            },
+            {
+                "step": "Add 4 tablespoons of diced ginger.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step11-add-ginger.gif"   
+            },
+            {
+                "step": "Add 4 tablespoons of diced ginger.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step11-add-ginger.gif"   
+            },
+            {
+                "step": "Add sesame oil.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step12-add-sesame-oil.gif"   
+            },
+            {
+                "step": "Add soy sauce and mix.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step13-add-soy-sauce-and-mix.gif"   
+            },
+            {
+                "step": "Mix with ground pork.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step14-mix-with-pork.gif"   
+            },
+            {
+                "step": "Mix veggies with ground pork. We say eyeball it. Everyone likes different proportions at this stage.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step14-mix-with-pork.gif"   
+            },
+            {
+                "step": "Mix veggies with uncooked shrimp.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step15-add-mix-to-shrimp.gif"   
+            },
+            {
+                "step": "Mix veggies with uncooked shrimp.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step16-fold-edges.gif"   
+            },
+            {
+                "step": "Heat oil on medium-high heat and fry dumplings.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step17-fry-dumplings.gif"   
+            },
+            {
+                "step": "When they're beginning to on the bottoms, add a splash of water and cover with lid.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step18-add-water-and-lid.gif"   
+            },
+            {
+                "step": "Take dumplings off heat and let cool.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step19-take-off-heat-let-cool.gif"   
+            },
+            {
+                "step": "Make a simple sauce with soy sauce, rice wine vinegar, sesame oil and chili flakes.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step20-make-sauce.gif"   
             },
             {
                 "step": "Enjoy!",

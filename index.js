@@ -16,6 +16,10 @@ app.use('/', categoryRoutes);
 const guidesRoutes = require('./routes/guides-routes');
 app.use('/', guidesRoutes);
 
+const searchRoutes = require('./routes/search-routes');
+app.use('/', searchRoutes);
+
+
 // Listening
 app.listen(PORT, () => {
     console.log("Server running on port "
