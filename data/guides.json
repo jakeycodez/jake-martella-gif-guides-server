@@ -5,7 +5,10 @@
         "author": "PPO",
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
-        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif",    
+        "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-crane/step19-play.gif",
+        "likes": 0,  
+        "itemList": "paper, scissors", 
+        "tags": "crane paper origami arts crafts ceci", 
         "steps": [
             {
                 "step": "",
@@ -92,6 +95,8 @@
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
         "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-pencil-holder/step23-use-pencil-holder.gif",
+        "likes": 0, 
+        "tags": "pencil, holder, organize, organization, desk, student, school, case, origami",  
         "steps":[
             {
                 "step": "",
@@ -195,6 +200,8 @@
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
         "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-frog/step19-tap-butt-to-launch.gif",
+        "likes": 0, 
+        "tags": "frog, animal, origami, creative, fun, play", 
         "steps":[
             {
                "step": "",
@@ -281,6 +288,8 @@
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
         "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-a-paper-gun/step29-done.gif",
+        "likes": 0,  
+        "tags": "gun, shoot, action, bullet, cowboy",
         "steps": [
             {
                 "step": "",
@@ -409,6 +418,7 @@
         "categoryID": "300",
         "categoryName": "Arts & Crafts", 
         "coverGIF": "http://localhost:8080/guides/arts-and-crafts/how-to-make-paper-sunglasses/step13-fold-other-arm-and-wear.gif",
+        "likes": 0,  
         "steps":[
             {
                 "step": "",
@@ -468,10 +478,11 @@
         "id": "6",
         "name": "How to make homemade bread",
         "author": "NovaEraOfficial",
-        "likes": 87,
         "categoryID": "100",
         "categoryName": "Cooking", 
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-homemade-bread/step14-cut-enjoy.gif",
+        "likes": 0,  
+        "tags": "bread, bake, artisan, bun, baget, fresh, yeast",
         "steps":[
             {
                 "step": "Get 800g of all-purpose flour in a bowl.",
@@ -535,10 +546,11 @@
         "id": "7",
         "name": "How to make banana cake",
         "author": "Cookist",
-        "likes": 43,
         "categoryID": "100",
         "categoryName": "Cooking", 
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-banana-cake/step20-enjoy.gif",
+        "likes": 0,  
+        "tags": "dessert, sweets, bake, baking, fast, easy",
         "steps":[
             {
                 "step": "Peel 3 ripe bananas.",
@@ -626,10 +638,11 @@
         "id": "8",
         "name": "How to make fried chicken",
         "author": "Tiffin Box",
-        "likes": 129,
         "categoryID": "100",
         "categoryName": "Cooking", 
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-fried-chicken/step25-enjoy.gif",
+        "likes": 0,  
+        "tags": "chicken, fry, batter, kfc",
         "steps":[
             {
                 "step": "Add a half-table spoon of soy sauce to a bowl.",
@@ -738,10 +751,11 @@
         "id": "9",
         "name": "How to make pizza rolls",
         "author": "Pizza Time",
-        "likes": 78,
         "categoryID": "100",
         "categoryName": "Cooking", 
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step14-enjoy.gif",
+        "likes": 78,
+        "tags": "snack, tasty, cheese, cheesy, quick, easy",
         "steps":[
             {
                 "step": "Get 6 pieces of sliced white bread.",
@@ -756,7 +770,7 @@
                 "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step3-add-basil.gif"  
             },
             {
-                "step": "Add cheese. Low moisture mozzerella is preferred for a stringy goey effect.",
+                "step": "Add cheese. Low moisture mozzarella is preferred for a stringy goey effect.",
                 "gif": "http://localhost:8080/guides/cooking/how-to-make-pizza-rolls/step4-add-cheese.gif"  
             },
             {
@@ -805,10 +819,11 @@
         "id": "10",
         "name": "How to make shrimp dumplings",
         "author": "Cooking With Eric",
-        "likes": 59,
         "categoryID": "100",
         "categoryName": "Cooking", 
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step21-enjoy.gif",
+        "likes": 59,
+        "tags": "chinese, pot stickers, pot-stickers, dim sum",
         "steps":[
             {
                 "step": "Get flour.",
@@ -836,11 +851,11 @@
             },
             {
                 "step": "Roll into flat sheets.",
-                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/,step7-roll-out.gif"   
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step7-roll-out.gif"   
             },
             {
                 "step": "Add 2 cups purple cabbage.",
-                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step8-add-two-cups-caggabe.gif"   
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-pork-and-shrimp-dumplings/step8-add-two-cups-cabbage.gif"   
             },
             {
                 "step": "Add 2 cups chopped green onion.",
@@ -904,5 +919,1125 @@
             }
             
         ]
+        
+    },
+    {
+        "id": "11",
+        "name": "How to work out your core in 10 steps",
+        "author": "Anonymous",
+        "categoryID": "200",
+        "categoryName": "Fitness", 
+        "coverGIF": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step10-mountain-climbers.gif",
+        "likes": 4,
+        "tags": "workout, abs, strength, fit, physique, shape, get in shape, summer bod, shredded, lean, muscle",
+        "steps": [
+            {
+                "step": "Start off with side crunches. Repeat crunch 1 minute per side for 2 minutes total. ",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step1-side-crunch.gif" 
+            },
+            {
+                "step": "Now that the blood is flowing, do rotational punches for 1 minute.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step2-rotating-punches.gif" 
+            },
+            {
+                "step": "Core strength means having strong stability muscles. Try 1 minute of V-ins.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step3-v-ins.gif" 
+            },
+            {
+                "step": "Do 1 minute of plank-ups, or hold plank for 1 minute.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step4-plank-ups.gif" 
+            },
+            {
+                "step": "In a controlled motion, rotate side to side with your legs and feet hovering just off the floor. Focus on your obliques for this exercise.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step5-balancing-side-to-side.gif" 
+            },
+            {
+                "step": "You're core is likely on fire. Cool off with simple crunches for 1 minute. Going slow is fine, just keep a steady controlled pace.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step6-crunch.gif" 
+            },
+            {
+                "step": "Take a breather so you can finish these last two exercises strong!",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step7-30-second-break.gif" 
+            },
+            {
+                "step": "Alternate side to side and reach for your heels. Focus on your obliques.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step8-side-reaches.gif" 
+            },
+            {
+                "step": "The fun stuff. Scissor kicks for 1 minute.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step9-scissor-kicks.gif" 
+            },
+            {
+                "step": "Mountain climbers for 1 minute and you're all done! Amazing work. Now go find a guide to learn how to stretch!",
+                "gif": "http://localhost:8080/guides/fitness/how-to-work-out-your-core/step10-mountain-climbers.gif" 
+            }   
+        ]
+    },
+    {
+        "id": "12",
+        "name": "How to get stronger hands in 3 easy steps",
+        "author": "Anonymous",
+        "categoryID": "200",
+        "categoryName": "Fitness", 
+        "coverGIF": "http://localhost:8080/guides/fitness/how-to-get-stronger-hands/step3-flex-using-rubber-band.gif",
+        "likes": 14,
+        "tags": "strength, hand, wrist, physiotherapy, physio",
+        "steps": [
+            {
+                "step": "Your hands have tons of little muscles. It's important to warm up and stretch them!",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-hands/step1-warm-up.gif" 
+            },
+            {
+                "step": "Squeeze a stressball, lacross ball, or hacky sack for 10-15 reps.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-hands/step2-squeeze-stress-ball.gif" 
+            },
+            {
+                "step": "Use an elastic band and extend your fingers outwards. Use a thicker elastic band to make it harder if necessary. Repeat these steps once in the morning and once at night, 3 times a week.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-hands/step3-flex-using-rubber-band.gif" 
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Learn How to squat properly in 5 GIFs",
+        "author": "Anonymous",
+        "categoryID": "200",
+        "categoryName": "Fitness", 
+        "coverGIF": "http://localhost:8080/guides/fitness/how-to-squat-properly/step1-inhale-bend-knees-arms-out.gif",
+        "likes": 204,
+        "tags": "squat, booty, leg, legday, leg day, quad, quadracepts, hamstrings, core strength, butt, glute, glutes, home workout, home work out",
+        "steps": [
+            {
+                "step": "Inhale as you bend your knees. Keep your arms out in front of your body for balance. Make sure feet and knees are shoulder with apart with your feet straight.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-squat-properly/step1-inhale-bend-knees-arms-out.gif" 
+            },
+            {
+                "step": "Ensure posture is correct, and hold squat for 1-2 seconds before standing back upright.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-squat-properly/step2-hold-and-check-posture.gif" 
+            },
+            {
+                "step": "Exhale and stand, keeping your back straight as you lift yourself back upright.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-squat-properly/step3-exhale-stand-upright.gif" 
+            },
+            {
+                "step": "Repeat for 30 reps, or until failure.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-squat-properly/step5-repeat.gif" 
+            },
+            {
+                "step": "While holding for 1-2 seconds, try pulsing up and down to increase difficulty of squat.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-squat-properly/step4-pulse-while-holding-to-make-harder.gif" 
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "name": "How to get stronger ankles",
+        "author": "Anonymous",
+        "categoryID": "200",
+        "categoryName": "Fitness", 
+        "coverGIF": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step5-resistance-band-outward-flexes.gif",
+        "likes": 423,
+        "tags": "strength, physio, physiotherapy, balance, stability, muscles, injury, injured",
+        "steps": [
+            {
+                    "step": "Start with foot raises. Aim for 10-15 reps and focus on form, not speed.",
+                    "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step1-foot-raises.gif" 
+            },
+            {
+                "step": "Now try calve raises. Aim for 10-15 reps and focus on form, not speed. Use a chair for assistance if necessary. ",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step2-calf-raises.gif" 
+            },
+            {
+                "step": "Now sit and repeat calve raises. Focus on the slight variation in angle and muscles you're hitting. ",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step3-easier-calf-raises.gif" 
+            },
+            {
+                "step": "While seated, do 15-20 inverse foot raises. Remember to hold for a second at the top. ",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step4-inverse-lifts.gif" 
+            },
+            {
+                "step": "Step on a resistance band with one foot, and with the other, extend outward for 10-15 reps.  Repeat for both feet and work on these exercises 2-3 times per week. ",
+                "gif": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step5-resistance-band-outward-flexes.gif" 
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "name": "How to do a perfect push up in 3 GIFs",
+        "author": "Anonymous",
+        "categoryID": "200",
+        "categoryName": "Fitness", 
+        "coverGIF": "http://localhost:8080/guides/fitness/how-to-do-a-perfect-pushup/step3-slow-down-fast-up.gif",
+        "likes": 873,
+        "tags": "pushup, chest, pecs, pectorals, summer bod, summer body, home workout, home work out, plyometrics",
+        "steps": [
+            {
+                "step": "Be mindful of your angle when in plank position. Make sure your arms are shoulder width apart and your body isn't too far over or behind your shoulders.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-do-a-perfect-pushup/step1-be-mindful-of-angle.gif"
+            },
+            {
+                "step": "Don't round your shoulders. When learning new exercises it's best to focus on form, not speed.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-do-a-perfect-pushup/step2-dont-roll-shoulders.gif"
+            },
+            {
+                "step": "Take about 2 seconds to go down, and 1 second to extend back up. Slow, down. Fast, up.",
+                "gif": "http://localhost:8080/guides/fitness/how-to-do-a-perfect-pushup/step3-slow-down-fast-up.gif"
+            }
+        ]
+    }, 
+    {
+        "id": "16",
+        "name": "5 supportive quotes for mental health",
+        "author": "Anonymous",
+        "categoryID": "500",
+        "categoryName": "Mental Health", 
+        "coverGIF": "https://media.giphy.com/media/jPGMVVCDzfQdeaxm2t/giphy.gif",
+        "likes": 873,
+        "tags": "positivity, good vibes, good energy, mental health, mindfulness, wellness, state of mind, happy, happiness, wisdom, feels good",
+        "steps": [
+            {
+                "step":"Breathe in. Breathe out. You got this.",
+                "gif": "https://media.giphy.com/media/zyjCXPXNo39i0CB467/giphy.gif"
+            },
+            {
+                "step":"Small steps forward are still steps.",
+                "gif": "https://media.giphy.com/media/kfAHhjTgY8eTAI0Viz/giphy.gif"
+            },
+            {
+                "step":"It's okay to not be okay.",
+                "gif": "https://media.giphy.com/media/lshqKeuiAg70BUfxac/giphy.gif"
+            },
+            {
+                "step": "All of the above :)",
+                "gif": "https://media.giphy.com/media/CxOdPPFIbGu6k21Ee6/giphy.gif"
+            },
+            {
+                "step": "Stay strong.",
+                "gif": "https://media.giphy.com/media/jPGMVVCDzfQdeaxm2t/giphy.gif"
+            }
+        ]
+    },
+    {
+        "id": "17",
+        "name": "How to meditate in 6 GIFs",
+        "author": "Anonymous",
+        "categoryID": "500",
+        "categoryName": "Mental Health", 
+        "coverGIF": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step1-find-a-quiet-place.gif",
+        "likes": 873,
+        "tags": "meditation, mindfulness, state of mind, positivity, zen, relax, calm, mind, mental health, clarity, rest, peace, inner peace",
+        "steps": [
+            {
+                "step":"Find a quiet place with no distractions. Make sure you are able to sit in a comfortable position. A quiet room, or under a tree. Some people prefer white noise, others prefer absolute silence. You'll learn works best for you through trying different things.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step1-find-a-quiet-place.gif"
+            },
+            {
+                "step":"Sit in a comfortable position. Crossed legged on the floor or on a pillow is customary but feel free to sit on a chair, or on a bed. As long as you are comfortable enough to not need to have to re-adjust this will help with the process.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step2-sit-in-comfortable-position.gif"
+            },
+            {
+                "step":"Focus on your breath and nothing else. Inhale through your nose and exhale through your mouth. Think about the air travelling into your body, and out.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step3-breathe-in.gif"
+            },
+            {
+                "step":"Try to clear your mind. Inhale positive thoughts. Exhale negative thoughts.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step4-clear-your-mind.gif"
+            },
+            {
+                "step":"Try to detatch from the material world. Focus on your natural self. If you find yourself thinking about the news, politics, or work, quickly exhale those thoughts and focus on a static nature scene.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step5-focus-on-your-natural-self.gif"
+            },
+            {
+                "step":"If you find your mind wondering, guide yourself through a field or forest. Keep your thoughts as natural as possible. You will find your peace. You will find your calm. You deserve mindfulness and you will achieve it through practice and patience.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-meditate-for-beginners/step6-try-not-to-think-about-anything.gif"
+            }
+        ]
+    },
+    {
+        "id": "18",
+        "name": "8 funny GIFs for your mental health",
+        "author": "Anonymous",
+        "categoryID": "500",
+        "categoryName": "Mental Health", 
+        "coverGIF": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step1-go-for-a-walk.gif",
+        "likes": 873,
+        "tags": "mental health, funny, laughter, positivity, positive, stay positive, health, wellness, mindfulness",
+        "steps": [
+            {
+                "step":"Go for a walk. Even if it's raining or cold. Fresh air is good for the soul!",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step1-go-for-a-walk.gif"
+            },
+            {
+                "step":"Exercise! Exercising releases endorphins and reduces stress.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step2-exercise.gif"
+            },
+            {
+                "step":"Having proper posture helps self-esteem.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step3-focus-on-good-posture.gif"
+            },
+            {
+                "step":"Hug people more. We are social creatures and thrive off love and affection.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step4-hug-people.gif"
+            },
+            {
+                "step":"Start writing in a gratitude journal. Showing appreciation for even the smallest things can help put things into perspective.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step5-gratitude-journal.gif"
+            },
+            {
+                "step":"Get more rest. Sleep is a vital part your mental health.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step6-get-more-rest.gif"
+            },
+            {
+                "step":"Keep a positive mindset. What you think, you become.",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step7-think-positive.gif"
+            },
+            {
+                "step":"Lastly and our personal favorite: Studies show just 10 minutes of petting a furry friend can reduce the stress hormone (cortisol).",
+                "gif": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step8-cuddle-a-pet.gif"
+            }
+        ]
+    },
+    {
+        "id": "19",
+        "name": "4 ways to seek therapy",
+        "author": "Anonymous",
+        "categoryID": "500",
+        "categoryName": "Mental Health", 
+        "coverGIF": "http://localhost:8080/guides/mental-health/4-places-to-seek-therapy/step1-individual-therapy.gif",
+        "likes": 873,
+        "tags": "mental health, funny, laughter, positivity, positive, stay positive, health, wellness, mindfulness",
+        "steps": [
+            {
+                "step":"Individual therapy with a accredited psychologist, psychiatrist or counsellor.",
+                "gif": "http://localhost:8080/guides/mental-health/4-places-to-seek-therapy/step1-individual-therapy.gif" 
+            },
+            {
+                "step":"Group therapy sessions are a great way to open up to people going through similar things you may be. Sometimes it helps hearing other people's struggles to feel less alone.",
+                "gif": "http://localhost:8080/guides/mental-health/4-places-to-seek-therapy/step2-group-therapy.gif" 
+            },
+            {
+                "step":"Couples therapy is an important step in solving relationship problems. Trust and acceptance are key components to a healthy relationship. ",
+                "gif": "http://localhost:8080/guides/mental-health/4-places-to-seek-therapy/step3-couples-therapy.gif" 
+            },
+            {
+                "step":"Family therapy. Everybody needs a support system. Your family (or a friend) is a great place to start if you're feeling like you need help and can't do it alone.",
+                "gif": "http://localhost:8080/guides/mental-health/4-places-to-seek-therapy/step4-family-therapy.gif" 
+            }
+        ]
+    },
+    {
+        "id": "20",
+        "name": "7 habits to help improve mental health",
+        "author": "Anonymous",
+        "categoryID": "500",
+        "categoryName": "Mental Health", 
+        "coverGIF": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step7-turn-off-phone.gif",
+        "likes": 873,
+        "tags": "mental health, funny, laughter, positivity, positive, stay positive, health, wellness, mindfulness",
+        "steps": [
+            {
+                "step":"Eat healthy food.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step1-eat-healthy-food.gif" 
+            },
+            {
+                "step":"Tune out distractions and negative energy by listening to music.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step2-music.gif" 
+            },
+            {
+                "step":"Join a sports program. This is great for mental health because it helps you get exercise as well as social connections.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step3-join-sports-program.gif" 
+            },
+            {
+                "step":"Engage with others to feel connectedness and social affection.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step4-engage-with-others.gif" 
+            },
+            {
+                "step":"Exercise increases your overall health and sense of well-being.  Exercise also produces endorphins, which is a 'feel-good' chemical in the brain.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step5-exercise.gif" 
+            },
+            {
+                "step":"Smoking and excessive alcohol can be harmful to your mental health, even if they seem to help as a remedy very briefly.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step6-cut-down-bad-habits.gif" 
+            },
+            {
+                "step":"Turning off your phone and disconnecting can help you with mindfulness and living in the present moment. We can often get lost in our phones and spend too much time on social media or being available for work on off-hours.",
+                "gif": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step7-turn-off-phone.gif" 
+            }
+        ]
+    },
+    {
+        "id": "21",
+        "name": "4 fun food hacks ",
+        "author": "Anonymous",
+        "categoryID": "400",
+        "categoryName": "Life Hacks", 
+        "coverGIF": "http://localhost:8080/guides/life-hacks/4-food-hacks/step5-toothpick.gif",
+        "likes": 100,
+        "tags": "food, hack, life-hacks, lifehacks, tricks, burger, sauce, hacks, clever, creative",
+        "steps": [
+            {
+                "step":"Having a party with cake? No need for forks or plates...",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step1-no-plates.gif" 
+            },
+            {
+                "step":"Has this happened to you opening pasta? Yeah. Us too.",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step2-pasta-hack.gif" 
+            },
+            {
+                "step":"Has this happened to you opening pasta? Yeah. Us too.",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step3-pasta-open.gif" 
+            },
+            {
+                "step":"These sauce packets were not mean't for dipping burgers...",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step4-burger.gif" 
+            },
+            {
+                "step":"All you need is a toothpick, and voila!",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step5-toothpick.gif" 
+            },
+            {
+                "step":"Nobody likes messy fingers.",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step6-open-package.gif" 
+            },
+            {
+                "step":"Nobody likes messy fingers.",
+                "gif": "http://localhost:8080/guides/life-hacks/4-food-hacks/step7-use-lid.gif"
+            }
+        ]
+    },
+    {
+        "id": "22",
+        "name": "How to make a fruit bowl",
+        "author": "Anonymous",
+        "categoryID": "400",
+        "categoryName": "Life Hacks", 
+        "coverGIF": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step6-enjoy.gif",
+        "likes": 100,
+        "tags": "food, hack, life-hacks, lifehacks, tricks, burger, sauce, hacks, clever, creative",
+        "steps": [
+            {
+                "step":"Draw dot on wooden skewer or dowel.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step1-draw-dots.gif" 
+            },
+            {
+                "step":"Drill holes thumbs length away from ends",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step2-drill-holes.gif" 
+            },
+            {
+                "step":"Feed a wire through the hole as shown.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step3-get-wire-feed-sticks-through.gif" 
+            },
+            {
+                "step":"Using plyers, bend the wire to keep sticks from falling out.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step4-bend-wire.gif" 
+            },
+            {
+                "step":"Push the smaller ends down and the longer ends up to create a bowl shape.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step5-push-longer-sides-up.gif" 
+            },
+            {
+                "step":"Fill bowl with fruit and enjoy!",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-make-a-fruit-bowl/step6-enjoy.gif" 
+            }
+        ]
+    },
+    {
+
+        "id": "23",
+        "name": "How to hang a picture",
+        "author": "Anonymous",
+        "categoryID": "800",
+        "categoryName": "Build & DIY", 
+        "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step18-hang-photo.gif",
+        "likes": 100,
+        "tags": "diy, build, picture, hang, frame, drywall, stud, wall, anchor, drill, diy, home improvement",
+        "steps": [
+            {
+                "step":"Gather tools.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step1-gather-tools.gif" 
+            },
+            {
+                "step":"If you're unsure of where to position your picture, typically it's suggested to hang at eye level, although you can do whatever is comfortable for you.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step2-eye-level.gif"
+            },
+            {
+                "step":"Use a pipe and cable detector to check if the wall is clear for drilling into.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step3-pipe-cable-detector.gif"
+            },
+            {
+                "step":"Once you find a safe spot, hold your photo and mark the top center with a pencil.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step4-hold-and-measure.gif"
+            },
+            {
+                "step":"Measure the distance from the picture wire to the top of the frame, making sure to pull the wire taut.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step5-measure-distance.gif"
+            },
+            {
+                "step":"Using your measurement, mark the wall where the wire would sit, adding a half inch to the top so that the picture will cover your top line marking when it hangs.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step6-fixed-position-mark.gif"
+            },
+            {
+                "step": "You can hold your picture above the top marking to get an idea of how it will look.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step7-cover-top-marking.gif"
+            },
+            {
+                "step": "Follow these next instructions if you have plaster walls.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step8-plaster-walls.gif"
+            },
+            {
+                "step": "If your walls are plaster, you can use a simple anchor.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step9-hammer-nail.gif"
+            },
+            {
+                "step": "If you have masonry walls follow the next step.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step10-masonry-walls.gif"
+            },
+            {
+                "step": "You can use a plastic plug. Make sure your drill bit is slightly smaller in diameter than the plug. It's better to start too small than make a hole too big for the plug.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step11-get-plugs.gif"
+            },
+            {
+                "step": "Use masking tape around your drill bit as a marker to see how deep the wall is.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step12-use-tape-as-marker.gif"
+            },
+            {
+                "step": "Drill into the wall.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step13-drill-in.gif"
+            },
+            {
+                "step": "Use a hammer to tap the plug in all the way.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step14-hammer-plug.gif"
+            },
+            {
+                "step": "Screw into the stud and leave some space for your picture to hang.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step15-stud-walls.gif"
+            },
+            {
+                "step": "If your picture is very heavy, you may need a different approach.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step15-stud-walls.gif"
+            },
+            {
+                "step": "Use your stud finder to find a stud and mark with pencil.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step16-stud-finder.gif"
+            },
+            {
+                "step": "Use a carpenters all to pierce into the wall and make sure a stud is there. Screw directly into the wall/stud. Remember to leave a bit of room for the picture to hang.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step17-use-carpenters-all.gif"
+            },
+            {
+                "step": "Hang your picture",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step18-hang-photo.gif"
+            },
+            {
+                "step": "Use a level to ensure the picture is straight, and you're done!",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step19-use-level.gif"
+            }
+        ]
+    },
+    {
+        "id": "24",
+        "name": "How to unclog your drain",
+        "author": "Anonymous",
+        "categoryID": "800",
+        "categoryName": "Build & DIY", 
+        "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step7-clear-blockage.gif",
+        "likes": 100,
+        "tags": "diy, build, picture, hang, frame, drywall, stud, wall, anchor, drill, diy, home improvement",
+        "steps": [
+            {
+                "step": "Use a clamp to keep dirty water from spilling out.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step1-apply-clamp.gif"
+            },
+            {
+                "step": "Make sure plunger is submerged in water. With firm pressure try to unclog drain.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step2-apply-plunger.gif"
+            },
+            {
+                "step": "Work until drain clears.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step3-work-until-drain-clear.gif"
+            },
+            {
+                "step": "If plunger is unsuccessful, try cleaning the p-trap.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step4-clean-ptrap.gif"
+            },
+            {
+                "step": "Loosen slip nuts.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step5-loosen-slip-nuts.gif"
+            },
+            {
+                "step": "Empty p-trap into a bowl.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step6-empty-ptrap.gif"
+            },
+            {
+                "step": "Clear any potential blockages.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step7-clear-blockage.gif"
+            },
+            {
+                "step": "If the p-trap wasn't the problem, try removing the arm.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step8-remove-arm.gif"
+            },
+            {
+                "step": "Clear any potential blockages from the arm.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step9-clear-arm.gif"
+            },
+            {
+                "step": "If still unnsuccessful, try using a snake to clear blockages.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step10-clear-using-snake.gif"
+            },
+            {
+                "step": "Reassemble and run hot water to clear out any other debris.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step11-reassamble.gif"
+            },
+            {
+                "step": "You're all done!",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step12-done.gif"
+            }
+        ]
+    },
+    {
+        "id": "25",
+        "name": "How to patch a hole in drywall",
+        "author": "Anonymous",
+        "categoryID": "800",
+        "categoryName": "Build & DIY", 
+        "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step12-add-compound.gif",
+        "likes": 100,
+        "tags": "diy, build, patch, hole, drywall, compound, diy, home improvement",
+        "steps": [
+            {
+                "step": "Score a square around the hole.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step1-score-a-square-around-hole.gif"
+            },
+            {
+                "step": "Cut a square around the hole.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step2-cut-hole.gif"
+            },
+            {
+                "step": "Cut a square from another piece of drywall. You will use this piece to fill the hole.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step3-cut-patch-piece.gif"
+            },
+            {
+                "step": "Score the brown side of the drywall. Make the square roughly the same size as the square hole in the wall you just made. It should be small enough to find inside.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step4-score-brown-side.gif"
+            },
+            {
+                "step": "Break the sides of the drywall off where you scored the lines. Keep the paper attached though, you'll see why by step 10.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step5-break-edges-off.gif"
+            },
+            {
+                "step": "Remember to leave the paper edges on!",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step6-leave-paper-edges-on.gif"
+            },
+            {
+                "step": "Add drywall joint compound (bucket mud) on the inside of the hole.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step7-add-compound-inside.gif"
+            },
+            {
+                "step": "Cover the surrounding hole with compound.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step8-add-mud-around.gif"
+            },
+            {
+                "step": "Add compound to the edges of the drywall replacement piece.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step9-add-mudd-to-patch-piece.gif"
+            },
+            {
+                "step": "Fit the drywall patch piece inside the hole with the white side facing you.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step10-fit-patch-piece-in-hole.gif"
+            },
+            {
+                "step": "Tap into place.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step11-tap-into-place.gif"
+            },
+            {
+                "step": "Add compound overtop.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step12-add-compound.gif"
+            },
+            {
+                "step": "Cover the entire area with compound. Try and keep a firm pressure on the scraper to get clean smooth wipes. Let dry and add one more layer of compound. ",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step13-cover.gif"
+            },
+            {
+                "step": "After you finish the second coat and it has dried, sand smooth.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step14-finish-smooth-let-dry.gif"
+            }
+        ]
+    },
+    {
+        "id": "26",
+        "name": "Easy microfoam from home",
+        "author": "Anonymous",
+        "categoryID": "400",
+        "categoryName": "Life-Hacks", 
+        "coverGIF": "http://localhost:8080/guides/life-hacks/microfoam-hack-for-coffee/step3-microfoam.gif",
+        "likes": 100,
+        "tags": "coffee, latte, cappucino, foam, microfoam, milk, french press, espresso, caffeine",
+        "steps": [
+            {
+                "step": "Pour milk into a french press.",
+                "gif": "http://localhost:8080/guides/life-hacks/microfoam-hack-for-coffee/step1-pour-milk.gif"
+            },
+            {
+                "step": "Put the top on and pump the milk",
+                "gif": "http://localhost:8080/guides/life-hacks/microfoam-hack-for-coffee/step2-use-french-press.gif"
+            },
+            {
+                "step": "Pour foam onto coffee, latte, cappucino or espresso.",
+                "gif": "http://localhost:8080/guides/life-hacks/microfoam-hack-for-coffee/step3-microfoam.gif"
+            }
+        ]
+    },
+    {
+        "id": "27",
+        "name": "How to keep lemons from drying out",
+        "author": "Anonymous",
+        "categoryID": "400",
+        "categoryName": "Life-Hacks", 
+        "coverGIF": "http://localhost:8080/guides/life-hacks/how-to-keep-lemons-from-drying-out/step4-keep-fresh.gif",
+        "likes": 100,
+        "tags": "lemon, lemons, fresh, fresh food, keep fresh, food hack, life hack",
+        "steps": [
+            {
+                "step": "Cut to sides of a pringles lid.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-keep-lemons-from-drying-out/step1-two-cuts-pringle-lid.gif"
+            },
+            {
+                "step": "Attach a rubber band along the slits.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-keep-lemons-from-drying-out/step2-rubber-band.gif"
+            },
+            {
+                "step": "Place lemon with flesh side facing the lid.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-keep-lemons-from-drying-out/step3-use-as-cover.gif"
+            },
+            {
+                "step": "Keep refrigerated.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-keep-lemons-from-drying-out/step4-keep-fresh.gif"
+            }
+        ]
+    },
+    {
+        "id": "28",
+        "name": "Convenient garbge bin hack",
+        "author": "Anonymous",
+        "categoryID": "400",
+        "categoryName": "Life-Hacks", 
+        "coverGIF": "http://localhost:8080/guides/life-hacks/garbage-bin-hack/step3-reuse.gif",
+        "likes": 100,
+        "tags": "garbage, trash, bin, bag, bags, roll, life hack",
+        "steps": [
+            {
+                "step": "Cut a slit in an empty paper towel roller. Feed a roll of bags through the slit.",
+                "gif": "http://localhost:8080/guides/life-hacks/garbage-bin-hack/step1-use-paper-roll.gif"
+            },
+            {
+                "step": "Place at bottom of garbage bin and keep bags connected.",
+                "gif": "http://localhost:8080/guides/life-hacks/garbage-bin-hack/step2-leave-at-bottom-of-bin.gif"
+            },
+            {
+                "step": "Simply tear away old bags and reset with next bag in line.",
+                "gif": "http://localhost:8080/guides/life-hacks/garbage-bin-hack/step3-reuse.gif"
+            }
+        ]
+    },
+    {
+        "id": "29",
+        "name": "How to grate things safely",
+        "author": "Anonymous",
+        "categoryID": "400",
+        "categoryName": "Life-Hacks", 
+        "coverGIF": "http://localhost:8080/guides/life-hacks/how-to-grate-things-safely/step1-example.gif",
+        "likes": 100,
+        "tags": "garbage, trash, bin, bag, bags, roll, life hack",
+        "steps": [
+            {
+                "step": "This is an example of what can happen when grating things by hand.",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-grate-things-safely/step1-example.gif"
+            },
+            {
+                "step": "Use a chopstick and spear the potato (or cheese or onion etc whatever you're grating.)",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-grate-things-safely/step2-use-chopstick.gif"
+            },
+            {
+                "step": "Grate safely!",
+                "gif": "http://localhost:8080/guides/life-hacks/how-to-grate-things-safely/step3-grate-away.gif"
+            }
+        ]
+    },
+    {
+        "id": "30",
+        "name": "How to make brownies",
+        "author": "Anonymous",
+        "categoryID": "100",
+        "categoryName": "Cooking", 
+        "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-brownies/step15-enjoy.gif",
+        "likes": 100,
+        "tags": "food, brownies, bake, baking, chocolate, fudge, sweet",
+        "steps": [
+            {
+                "step": "Cut chocolate. Melt half and save half for later.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step1-cut-chocolate.gif"
+            },
+            {
+                "step": "Melt butter.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step2-melt-butter.gif"
+            },
+            {
+                "step": "Add sugar",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step3-add-sugar.gif"
+            },
+            {
+                "step": "Whisk until smooth.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step4-wisk.gif"
+            },
+            {
+                "step": "Add 2 eggs.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step5-add-eggs.gif"
+            },
+            {
+                "step": "Add vanilla",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step6-vanilla.gif"
+            },
+            {
+                "step": "Whisk until smooth.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step7-whisk.gif"
+            },
+            {
+                "step": "Add melted chocolate.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step8-melted-chocolate.gif"
+            },
+            {
+                "step": "Add melted chocolate.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step9-flour-salt-cocoa-mix.gif"
+            },
+            {
+                "step": "Mix.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step10-mix.gif"
+            },
+            {
+                "step": "Add chocolate chunks.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step11-add-chocolate-chunks.gif"
+            },
+            {
+                "step": "Place parchment paper in a baking pan and pour batter into a pan evenly.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step12-pan.gif"
+            },
+            {
+                "step": "Bake.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step13-bake.gif"
+            },
+            {
+                "step": "Let cool 5-10 minutes and then cut.",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step14-cut.gif"
+            },
+            {
+                "step": "Enjoy!",
+                "gif": "http://localhost:8080/guides/cooking/how-to-make-brownies/step15-enjoy.gif"
+            }
+            
+        ]
+    },
+    {
+        "id": "31",
+        "name": "How to clean your keyboard",
+        "author": "Anonymous",
+        "categoryID": "700",
+        "categoryName": "Technology", 
+        "coverGIF": "http://localhost:8080/guides/technology/how-to-clean-your-keyboard/step3-cotton-swab.gif",
+        "likes": 100,
+        "tags": "keyboard, pc, computer, mac, apple, clean, maintenance",
+        "steps": [
+            {
+                "step": "Remove batteries or/and unplug from power.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-keyboard/step1-remove-batteries.gif"
+            },
+            {
+                "step": "Start by flipping your keyboard upside down and lightly tapping out any loose debris.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-keyboard/step2-upside-down.gif"
+            },
+            {
+                "step": "Use a cotton swab with alcohol (just damp, not dripping) to wipe inbetween and underneath keys.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-keyboard/step3-cotton-swab.gif"
+            },
+            {
+                "step": "If there was debris/grime that the swab couldn't get. Try getting at it with a toothpick.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-keyboard/step4-toothpick.gif"
+            },
+            {
+                "step": "Use a cloth and wipe away any other surface dirt.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-keyboard/step5-wipe.gif"
+            }
+        ]
+    },
+    {
+        "id": "32",
+        "name": "How to clean your phone",
+        "author": "Anonymous",
+        "categoryID": "700",
+        "categoryName": "Technology", 
+        "coverGIF": "http://localhost:8080/guides/technology/how-to-clean-your-phone/step1-microfiber.gif",
+        "likes": 100,
+        "tags": "keyboard, pc, computer, mac, apple, clean, maintenance",
+        "steps": [
+            {
+                "step": "Wipe away surface dirt with a clean microfiber cloth. Don't use paper towel.  ",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-phone/step1-microfiber.gif"
+            },
+            {
+                "step": "Dampen the microfiber and clean thoroughly. When it comes to electronics, remember to turn off your phone when adding moisture into the cleaning process.",
+                "gif":  "http://localhost:8080/guides/technology/how-to-clean-your-phone/step2-dampen.gif"
+            },
+            {
+                "step": "If you've been to the beach, wiping away sand can scratch the screen, so try a piece of scotch tape instead.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-phone/step3-tape.gif"
+            },
+            {
+                "step": "If you you know your phone is contaminated, try using a UV light to kill any surface bacteria.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-phone/step4-uv.gif"
+            },
+            {
+                "step": "Some phones are waterproof. It's still suggested to use a damp cloth instead of submerging your phone when cleaning.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-phone/step5-waterproof.gif"
+            }
+        ]
+    },
+    {
+        "id": "33",
+        "name": "How to clean your laptop",
+        "author": "Anonymous",
+        "categoryID": "700",
+        "categoryName": "Technology", 
+        "coverGIF": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step6-dry.gif",
+        "likes": 100,
+        "tags": "keyboard, pc, computer, mac, apple, clean, maintenance",
+        "steps": [
+            {
+                "step": "Unplug and turn off your laptop.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step1-turn-off.gif"
+            },
+            {
+                "step": "Flip laptop upside down and tap out any loose debris.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step2-flip-air.gif"
+            },
+            {
+                "step": "Use tap to pick up any other surface debris.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step3-use-tape.gif"
+            },
+            {
+                "step": "Use disinfecting wipes to wipe away grime on the keys. Wring away any excess liquid from the wipes before using. Ideally the cloth is damp and not dripping.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step4-disinfect.gif"
+            },
+            {
+                "step": "Dry off with a microfiber cloth.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step5-microfiber.gif"
+            },
+            {
+                "step": "Use a fan to make sure every part of the computer is dry. Moisture can get under the keyboard and you shouldn't turn on your computer until everything is bone dry.",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step6-dry.gif"
+            },
+            {
+                "step": "Now get back to work!",
+                "gif": "http://localhost:8080/guides/technology/how-to-clean-your-laptop/step7-get-back-to-work.gif"
+            }
+        ]
+    },
+    {
+        "id": "34",
+        "name": "How to fix your blinds",
+        "author": "Anonymous",
+        "categoryID": "800",
+        "categoryName": "Build & DIY", 
+        "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step1-paperclip.gif",
+        "likes": 100,
+        "tags": "diy, build, picture, hang, frame, drywall, stud, wall, anchor, drill, diy, home improvement",
+        "steps": [
+            {
+                "step": "Attach a large paper clip the end of the broken blind.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step1-paperclip.gif"
+            },
+            {
+                "step": "Taping the paper clip to the broken edge of the blind.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step2-tape.gif"
+            },
+            {
+                "step": "Try to wrap the tape 2-3 times around so the paper clip is secure.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step3-tape.gif"
+            },
+            {
+                "step": "Using a knife, or anything sharp, poke a hole in the tape. This will create a hole the blind track can clip into.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step4-poke-hole.gif"
+            },
+            {
+                "step": "Clip the blind into position.",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step5-clip.gif"
+            },
+            {
+                "step": "You fixed your blinds!",
+                "gif": "http://localhost:8080/guides/build-and-diy/how-to-fix-blinds/step6-fixed.gif"
+            }
+        ]
+    },
+    {
+        "id": "35",
+        "name": "How to varnish tricky places",
+        "author": "Anonymous",
+        "categoryID": "800",
+        "categoryName": "Build & DIY", 
+        "coverGIF": "http://localhost:8080/guides/build-and-diy/varnish-made-easy/step3-sock.gif",
+        "likes": 100,
+        "tags": "diy, build, picture, hang, frame, drywall, stud, wall, anchor, drill, diy, home improvement",
+        "steps": [
+            {
+                "step": "Some nooks and crannies are tricky to get to.",
+                "gif": "http://localhost:8080/guides/build-and-diy/varnish-made-easy/step1-brush-is-awkward.gif"
+            },
+            {
+                "step": "Put a plastic bag on your hand as a glove. Make sure there are no holes in the bag.",
+                "gif": "http://localhost:8080/guides/build-and-diy/varnish-made-easy/step2-plastic-bag.gif"
+            },
+            {
+                "step": "Put a sock on top of the plastic bag.",
+                "gif": "http://localhost:8080/guides/build-and-diy/varnish-made-easy/step3-sock.gif"
+            },
+            {
+                "step": "Add varnish to the sock. Your hand is now the brush.",
+                "gif": "http://localhost:8080/guides/build-and-diy/varnish-made-easy/step4-varnish.gif"
+            },
+            {
+                "step": "Use your hand to get into the hard to reach places.",
+                "gif": "http://localhost:8080/guides/build-and-diy/varnish-made-easy/step5-varnish.gif"
+            }
+        ]
+    },
+    {
+        "id": "36",
+        "name": "Make a paint brush holder",
+        "author": "Anonymous",
+        "categoryID": "800",
+        "categoryName": "Build & DIY", 
+        "coverGIF": "http://localhost:8080/guides/build-and-diy/paint-brush-holder/step1-use-magnet.gif",
+        "likes": 100,
+        "tags": "diy, build, picture, hang, frame, drywall, stud, wall, anchor, drill, diy, home improvement",
+        "steps": [
+            {
+                "step": "Most people just toss the brush into the paint can.",
+                "gif": "http://localhost:8080/guides/build-and-diy/paint-brush-holder/step1-most-people.gif"
+            },
+            {
+                "step": "Try this nifty trick. Get a strong magnet from your hardware store and attach it to the side of the can with the brush facing down.",
+                "gif": "http://localhost:8080/guides/build-and-diy/paint-brush-holder/step1-use-magnet.gif"
+            }
+        ]
+    },
+    {
+        "id": "37",
+        "name": "French nails made easy",
+        "author": "Anonymous",
+        "categoryID": "600",
+        "categoryName": "Beauty", 
+        "coverGIF": "http://localhost:8080/guides/beauty/french-nails-made-easy/step3-done.gif",
+        "likes": 100,
+        "tags": "beauty, cosmetic, nails, polish, french, tips, salon, spa",
+        "steps": [
+            {
+                "step": "Cut a straw",
+                "gif": "http://localhost:8080/guides/beauty/french-nails-made-easy/step1-cut-straw.gif"
+            },
+            {
+                "step": "Use straw as a brush",
+                "gif": "http://localhost:8080/guides/beauty/french-nails-made-easy/step2-use-as-brush.gif"
+            },
+            {
+                "step": "Let dry. Done!",
+                "gif": "http://localhost:8080/guides/beauty/french-nails-made-easy/step3-done.gif"
+            }
+        ]
+    },
+    {
+        "id": "38",
+        "name": "No-curling iron hair curler",
+        "author": "Anonymous",
+        "categoryID": "600",
+        "categoryName": "Beauty", 
+        "coverGIF": "http://localhost:8080/guides/beauty/how-to-curl-your-hair-with-socks/step5-take-socks-out.gif",
+        "likes": 100,
+        "tags": "hair, curl, curler, salon, beauty",
+        "steps": [
+            {
+                "step": "Wet your hair",
+                "gif": "http://localhost:8080/guides/beauty/how-to-curl-your-hair-with-socks/step1-wet-hair.gif"
+            },
+            {
+                "step": "Use socks to roll your hair up.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-curl-your-hair-with-socks/step2-hold-against-hair.gif"
+            },
+            {
+                "step": "Bundle all parts of your hair you want to curl.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-curl-your-hair-with-socks/step3-roll-hair-up-and-bundle.gif"
+            },
+            {
+                "step": "Blow dry.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-curl-your-hair-with-socks/step4-blow-dry.gif"
+            },
+            {
+                "step": "Remove socks and you're done!",
+                "gif": "http://localhost:8080/guides/beauty/how-to-curl-your-hair-with-socks/step5-take-socks-out.gif"
+            }
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Make a beauty product organizer",
+        "author": "Anonymous",
+        "categoryID": "600",
+        "categoryName": "Beauty", 
+        "coverGIF": "http://localhost:8080/guides/beauty/how-to-organize-your-products/step1-cardboard.gif",
+        "likes": 100,
+        "tags": "hair, curl, curler, salon, beauty",
+        "steps": [
+            {
+                "step": "Use an empty cardboard box and cut off the arms.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-organize-your-products/step1-cardboard.gif"
+            },
+            {
+                "step": "Attach a second box on top with a glue gun.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-organize-your-products/step2-place-box.gif"
+            },
+            {
+                "step": "Get wrapping paper or fabric with a design you like and cover boxes. You can staple, tape or glue gun depending on the material you choose.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-organize-your-products/step3-wrap-in-paper.gif"
+            },
+            {
+                "step": "Add frills and trim.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-organize-your-products/ste4-add-frills.gif"
+            },
+            {
+                "step": "Add products and you're all done!",
+                "gif": "http://localhost:8080/guides/beauty/how-to-organize-your-products/step5-add-products.gif"
+            }
+        ]
+    },
+    {
+        "id": "40",
+        "name": "How to turn glossy nail polish matte",
+        "author": "Anonymous",
+        "categoryID": "600",
+        "categoryName": "Beauty", 
+        "coverGIF": "http://localhost:8080/guides/beauty/how-to-get-matte-nailpolish/step2-hold-over-steam.gif",
+        "likes": 100,
+        "tags": "hair, curl, curler, salon, beauty",
+        "steps": [
+            {
+                "step": "Paint your nails as you normally would.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-get-matte-nailpolish/step1-do-your-nails.gif"
+            },
+            {
+                "step": "Hold your hand above steam. Be very careful to not get too close as you could seriously injure yourself. Start from far away and slowly get closer to ensure you don't burn yourself.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-get-matte-nailpolish/step2-hold-over-steam.gif"
+            },
+            {
+                "step": "Get wrapping paper or fabric with a design you like and cover boxes. You can staple, tape or glue gun depending on the material you choose.",
+                "gif": "http://localhost:8080/guides/beauty/how-to-get-matte-nailpolish/step3-matte-effect.gif"
+            }
+        ]
     }
+            
 ]

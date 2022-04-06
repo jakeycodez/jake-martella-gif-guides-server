@@ -21,4 +21,12 @@ exports.getAllGuides = () => {
     return JSON.parse(findGuide)
   }
 
+  // Function to save guide arr to JSON file
+  exports.saveAll = (guidesArr) => {
+    fs.writeFileSync(filePath, JSON.stringify(guidesArr))
+  }
+ 
+
+  
+
   

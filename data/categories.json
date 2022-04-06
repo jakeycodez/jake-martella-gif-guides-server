@@ -18,5 +18,25 @@
         "categoryID": "400",
         "name": "Life-Hacks",
         "poster": "https://media.giphy.com/media/71zOwrHdfEgik/giphy.gif"
+    },
+    {
+        "categoryID": "500",
+        "name": "Mental Health",
+        "poster": "https://media.giphy.com/media/zhRA0okWxTGiu78uSk/giphy.gif"
+    },
+    {
+        "categoryID": "600",
+        "name": "Beauty",
+        "poster": "https://media.giphy.com/media/LujfegRWzJn3y/giphy.gif"
+    },
+    {
+        "categoryID": "700",
+        "name": "Technology",
+        "poster": "https://media.giphy.com/media/KiXiO1iR3fFhC/giphy-downsized-large.gif"
+    },
+    {
+        "categoryID": "800",
+        "name": "Build & DIY",
+        "poster": "https://media.giphy.com/media/lkzQSklzkfqUzSd4j3/giphy-downsized-large.gif"
     }
 ]
