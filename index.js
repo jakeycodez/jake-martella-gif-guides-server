@@ -19,6 +19,11 @@ app.use('/', guidesRoutes);
 const searchRoutes = require('./routes/search-routes');
 app.use('/', searchRoutes);
 
+const requestRoutes = require ('./routes/request-routes');
+app.use('/', requestRoutes);
+
+
+
 
 
 

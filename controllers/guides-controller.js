@@ -40,6 +40,7 @@ exports.getGuideById = (req, res) => {
 
   res.status(200).json(findGuide);
   console.log("Successfully found guide by id");
+  // console.log("Successfully found guide by id");
 };
 
 
