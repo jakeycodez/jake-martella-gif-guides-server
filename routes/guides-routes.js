@@ -7,6 +7,7 @@ const guidesController = require('../controllers/guides-controller');
 
 router.route('/')
 .get(guidesController.getAllGuides) 
+.post(guidesController.addNewGuide)
 
 router.route('/categories/:id')
 .get(guidesController.getAllGuidesOfCat)

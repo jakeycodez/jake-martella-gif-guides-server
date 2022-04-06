@@ -11,7 +11,8 @@ exports.searchAllGuides = (_req, res) => {
                 "categoryID": guides.categoryID, 
                 "categoryName": guides.categoryName, 
                 "coverGIF": guides.coverGIF,
-                // "steps": guides.steps
+                "itemList": guides.itemList,
+                "tags": guides.tags
             }
         })
         res.status(200).json(guidesArr);
