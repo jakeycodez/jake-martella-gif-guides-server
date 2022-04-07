@@ -976,7 +976,7 @@
     {
         "id": "12",
         "name": "How to get stronger hands in 3 easy steps",
-        "author": "Anonymous",
+        "author": "Fit365",
         "categoryID": "200",
         "categoryName": "Fitness", 
         "coverGIF": "http://localhost:8080/guides/fitness/how-to-get-stronger-hands/step3-flex-using-rubber-band.gif",
@@ -1000,7 +1000,7 @@
     {
         "id": "13",
         "name": "Learn How to squat properly in 5 GIFs",
-        "author": "Anonymous",
+        "author": "Fit365",
         "categoryID": "200",
         "categoryName": "Fitness", 
         "coverGIF": "http://localhost:8080/guides/fitness/how-to-squat-properly/step1-inhale-bend-knees-arms-out.gif",
@@ -1032,7 +1032,7 @@
     {
         "id": "14",
         "name": "How to get stronger ankles",
-        "author": "Anonymous",
+        "author": "Physio Physique",
         "categoryID": "200",
         "categoryName": "Fitness", 
         "coverGIF": "http://localhost:8080/guides/fitness/how-to-get-stronger-ankles-in-5-gifs/step5-resistance-band-outward-flexes.gif",
@@ -1088,7 +1088,7 @@
     {
         "id": "16",
         "name": "5 supportive quotes for mental health",
-        "author": "Anonymous",
+        "author": "Creative Soul",
         "categoryID": "500",
         "categoryName": "Mental Health", 
         "coverGIF": "https://media.giphy.com/media/jPGMVVCDzfQdeaxm2t/giphy.gif",
@@ -1156,7 +1156,7 @@
     {
         "id": "18",
         "name": "8 funny GIFs for your mental health",
-        "author": "Anonymous",
+        "author": "Jake Martella",
         "categoryID": "500",
         "categoryName": "Mental Health", 
         "coverGIF": "http://localhost:8080/guides/mental-health/how-to-improve-mental-health-in-8-gifs/step1-go-for-a-walk.gif",
@@ -1200,7 +1200,7 @@
     {
         "id": "19",
         "name": "4 ways to seek therapy",
-        "author": "Anonymous",
+        "author": "CAMH",
         "categoryID": "500",
         "categoryName": "Mental Health", 
         "coverGIF": "http://localhost:8080/guides/mental-health/4-places-to-seek-therapy/step1-individual-therapy.gif",
@@ -1228,7 +1228,7 @@
     {
         "id": "20",
         "name": "7 habits to help improve mental health",
-        "author": "Anonymous",
+        "author": "CAMH",
         "categoryID": "500",
         "categoryName": "Mental Health", 
         "coverGIF": "http://localhost:8080/guides/mental-health/7-tips-for-improving-mental-health/step7-turn-off-phone.gif",
@@ -1268,7 +1268,7 @@
     {
         "id": "21",
         "name": "4 fun food hacks ",
-        "author": "Anonymous",
+        "author": "Crafty Co",
         "categoryID": "400",
         "categoryName": "Life Hacks", 
         "coverGIF": "http://localhost:8080/guides/life-hacks/4-food-hacks/step5-toothpick.gif",
@@ -1345,7 +1345,7 @@
 
         "id": "23",
         "name": "How to hang a picture",
-        "author": "Anonymous",
+        "author": "The DIY Guys",
         "categoryID": "800",
         "categoryName": "Build & DIY", 
         "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-hang-a-picture/step18-hang-photo.gif",
@@ -1437,7 +1437,7 @@
     {
         "id": "24",
         "name": "How to unclog your drain",
-        "author": "Anonymous",
+        "author": "Home Depot Official",
         "categoryID": "800",
         "categoryName": "Build & DIY", 
         "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-unclog-your-drain/step7-clear-blockage.gif",
@@ -1497,7 +1497,7 @@
     {
         "id": "25",
         "name": "How to patch a hole in drywall",
-        "author": "Anonymous",
+        "author": "Home Depot Official",
         "categoryID": "800",
         "categoryName": "Build & DIY", 
         "coverGIF": "http://localhost:8080/guides/build-and-diy/how-to-patch-a-hole-in-drywall/step12-add-compound.gif",
@@ -1565,7 +1565,7 @@
     {
         "id": "26",
         "name": "Easy microfoam from home",
-        "author": "Anonymous",
+        "author": "Coffee Crazers",
         "categoryID": "400",
         "categoryName": "Life-Hacks", 
         "coverGIF": "http://localhost:8080/guides/life-hacks/microfoam-hack-for-coffee/step3-microfoam.gif",
@@ -1589,7 +1589,7 @@
     {
         "id": "27",
         "name": "How to keep lemons from drying out",
-        "author": "Anonymous",
+        "author": "5-Minute Hacks",
         "categoryID": "400",
         "categoryName": "Life-Hacks", 
         "coverGIF": "http://localhost:8080/guides/life-hacks/how-to-keep-lemons-from-drying-out/step4-keep-fresh.gif",
@@ -1617,7 +1617,7 @@
     {
         "id": "28",
         "name": "Convenient garbge bin hack",
-        "author": "Anonymous",
+        "author": "5-Minute Hacks",
         "categoryID": "400",
         "categoryName": "Life-Hacks", 
         "coverGIF": "http://localhost:8080/guides/life-hacks/garbage-bin-hack/step3-reuse.gif",
@@ -1641,7 +1641,7 @@
     {
         "id": "29",
         "name": "How to grate things safely",
-        "author": "Anonymous",
+        "author": "5-Minute Hacks",
         "categoryID": "400",
         "categoryName": "Life-Hacks", 
         "coverGIF": "http://localhost:8080/guides/life-hacks/how-to-grate-things-safely/step1-example.gif",
@@ -1665,7 +1665,7 @@
     {
         "id": "30",
         "name": "How to make brownies",
-        "author": "Anonymous",
+        "author": "Choco-Lovers",
         "categoryID": "100",
         "categoryName": "Cooking", 
         "coverGIF": "http://localhost:8080/guides/cooking/how-to-make-brownies/step15-enjoy.gif",
